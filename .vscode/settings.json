@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.deploySubpath": "quiz-react",
+    "appService.defaultWebAppToDeploy": "/subscriptions/e78151c3-f7ed-4ef0-9541-de34feae76d3/resourceGroups/HUST/providers/Microsoft.Web/sites/pikequiz"
+}
